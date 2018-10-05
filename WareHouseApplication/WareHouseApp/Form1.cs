@@ -7,7 +7,7 @@ using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace WindowsFormsApp2
+namespace WareHouseApp
 {
 
 

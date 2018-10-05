@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Data.SqlClient;
 
-namespace WindowsFormsApp2
+namespace WareHouseApp
 {
     public partial class Form2 : Form
     {
