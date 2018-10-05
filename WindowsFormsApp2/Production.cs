@@ -6,7 +6,7 @@ using System.Data.Linq.Mapping;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WareHouseApp
+namespace WindowsFormsApp2
 {
     [Database]
     public class Production : DataContext

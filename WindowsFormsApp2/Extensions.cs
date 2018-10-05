@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace WareHouseApp
+namespace WindowsFormsApp2
 {
     public static class Extensions
     {

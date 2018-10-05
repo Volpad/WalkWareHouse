@@ -1,4 +1,4 @@
-﻿namespace WareHouseApp
+﻿namespace WindowsFormsApp2
 {
     partial class MainForm
     {
